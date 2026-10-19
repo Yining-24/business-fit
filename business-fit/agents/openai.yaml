@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Fit"
+  short_description: "Find and test businesses that fit your circumstances"
+  default_prompt: "Use $business-fit to explore businesses suited to my profile and identify the cheapest useful next test."
